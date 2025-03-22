@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**luckyboy2790/luckyboy2790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<div align="center">
+<a href="https://github.com/luckyboy2790?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=luckyboy2790&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<div align="center">
+    <a href="https://github.com/luckyboy2790">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckyboy2790&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ <a href="https://github.com/luckyboy2790?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=luckyboy2790&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@luckyboy2790's github-readme-stats"/></a>
+ <a href="https://github.com/luckyboy2790?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=luckyboy2790&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@luckyboy2790's github-readme-streak-stats"/></a>
+</div>
