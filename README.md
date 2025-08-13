@@ -14,5 +14,6 @@
 </div>
 
 <div align="center">
- <a href="https://github.com/arix-7x?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=arix-7x&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@arix-7x's github-readme-stats"/></a>
+ <a href="https://github.com/arix-7x?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=arix-7x&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" height="100%" alt="@arix-7x's github-readme-stats"/></a>
+ <a href="https://github.com/arix-7x?tab=stars"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arix-7x&layout=compact&theme=tokyonight&cache_seconds=60" width="48%" /></a>
 </div>
