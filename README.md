@@ -15,5 +15,4 @@
 
 <div align="center">
  <a href="https://github.com/arix-7x?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=arix-7x&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@arix-7x's github-readme-stats"/></a>
- <a href="https://github.com/arix-7x?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=arix-7x&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@arix-7x's github-readme-streak-stats"/></a>
 </div>
